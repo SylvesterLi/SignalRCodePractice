@@ -12,3 +12,6 @@ https://docs.microsoft.com/en-us/aspnet/core/tutorials/signalr?view=aspnetcore-2
 
 ### 推荐一个Signal R小程序的教程
 https://www.cnblogs.com/LiangSW/p/9415246.html
+
+
+### 已整合进来 https://github.com/liangshiw/SignalRMiniProgram-Client
